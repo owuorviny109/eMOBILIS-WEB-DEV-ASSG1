@@ -2,14 +2,14 @@
 
 A modern, responsive website for Bonkers Cat Food featuring a clean design with custom CSS styling.
 
-🌐 **Live Site:** https://owuorviny109.github.io/eMOBILIS-WEB-DEV-ASSG1/
+ **Live Site:** https://owuorviny109.github.io/eMOBILIS-WEB-DEV-ASSG1/
 
 ## Project Structure
 
 ```
 ESSENTIALS/
 ├── index.html         # Main HTML file
-├── main.css           # Custom CSS styles
+├── main.css           # Custom CSS style
 └── README.md          # Project documentation
 ```
 
