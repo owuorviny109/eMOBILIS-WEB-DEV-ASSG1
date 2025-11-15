@@ -2,7 +2,7 @@
 
 A modern, responsive multi-page website for Bonkers Cat Food, a premium cat food brand based in Nairobi, Kenya. Features a clean design with custom CSS styling and comprehensive product information.
 
-**Live Site:** https://owuorviny109.github.io/eMOBILIS-WEB-DEV-ASSG1/
+**Live Site:** https://owuorviny109.github.io/bonkers/
 
 ## Project Structure
 
